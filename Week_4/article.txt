@@ -1,0 +1,3 @@
+My article on NumPy Essentials: A Comprehensive Guide to NumPy at Medium:
+
+https://medium.com/@sania.gmd88/numpy-for-data-science-97b12851aa17
