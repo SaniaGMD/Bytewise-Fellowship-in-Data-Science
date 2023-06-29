@@ -1,0 +1,3 @@
+A detailed Article on SVM at Medium:
+
+https://medium.com/@kushaldps1996/a-complete-guide-to-support-vector-machines-svms-501e71aec19e
